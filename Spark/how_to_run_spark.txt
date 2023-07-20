@@ -1,0 +1,1 @@
+hadoop@master:$ spark-submit CC_HW/spark/Pagerank.py /input_spark/youtube.graph.large /outputs/spark 10
